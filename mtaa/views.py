@@ -6,6 +6,7 @@ from django.views import generic
 
 
 # Create your views here.
+@login_required(login_url='/accounts/login/')
 def home(request):
     neighbourhoods = Neighbourhood.objects.all()
     return render(request, 'home.html',{"neighbourhoods":neighbourhoods,})
@@ -110,6 +111,6 @@ def search_hoods(request):
         return render(request,'search.html',{"message":message,"searched_hoods":searched_hoods})
 
     else:
-        message='You Havent searched for any term'
+        message='You Have not searched for any term'
 
         return render(request, 'search.html',{"message":message})

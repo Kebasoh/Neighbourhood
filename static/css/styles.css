@@ -19,7 +19,7 @@ h1{
   background-image: url("https://bit.ly/32lt76L");
   background-size: cover;
   height: 50vh;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-position: center;
   
 }
