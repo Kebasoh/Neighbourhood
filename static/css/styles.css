@@ -14,3 +14,24 @@ h1{
   font-family: 'Cormorant Garamond', serif;
   font-size: 25px;
 }
+
+.steve{
+  background-image: url("https://bit.ly/32lt76L");
+  background-size: cover;
+  height: 50vh;
+  background-attachment: fixed;
+  background-position: center;
+  
+}
+.ongati{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #ffffff;
+
+}
+.ongati h1{
+  color: white;
+  
+}
