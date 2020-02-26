@@ -60,6 +60,11 @@ If user has no account, they click on `sign up` | User signs up | User is redire
 https://neiba.herokuapp.com/
 
 
+## Contact Information
+
+- Email:ongatikebaso@gamil.com
+- Github:kebasoh
+
 ### License
 
 * LICENSED UNDER  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
