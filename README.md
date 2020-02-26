@@ -8,7 +8,7 @@
 
 ##  Project Description
 
-- Our website basically works in 
+- Our website basically need a new neighbour to upload his/her neighbourhood and the population of his neigbourhood.
 
 ## BDD
 
