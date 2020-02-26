@@ -58,3 +58,8 @@ If user has no account, they click on `sign up` | User signs up | User is redire
 ## Projects livelink
 
 https://neiba.herokuapp.com/
+
+
+### License
+
+* LICENSED UNDER  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
