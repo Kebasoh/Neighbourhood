@@ -9,6 +9,7 @@
 ##  Project Description
 
 - Our website basically need a new neighbour to upload his/her neighbourhood and the population of his neigbourhood.
+- The user can also add his or her contacts and email.
 
 ## BDD
 
