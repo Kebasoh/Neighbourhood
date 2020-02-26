@@ -8,7 +8,11 @@
 
 ##  Project Description
 
+- Our website basically works in 
+
 ## BDD
+
+<img src="steve.png">
 
 ## Technologies used
 
