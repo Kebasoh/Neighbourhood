@@ -22,7 +22,12 @@
 - Python 
 - Django
 - Postgresql
-- 
+
+## Specifications
+| Behavior            | Input                         | Output                        | 
+| ------------------- | ----------------------------- | ----------------------------- |
+| User visits the app and gets directed to the login page  | User logs in | Directed to the home page | 
+If user has no account, they click on `sign up` | User signs up | User is redirected to the profile set up page |
 
 ## Projects livelink
 
